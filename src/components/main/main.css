@@ -1,0 +1,25 @@
+.main{
+    background-color: rgb(56, 56, 75);
+    margin-left: 15%;
+    margin-right: 15%;
+    padding: 20px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.main-text{
+    text-align: center;
+    font-size: 30px;
+    color: aliceblue;
+    margin-top: 50px;
+}
+
+.login-text{
+    margin-bottom: 70px;
+    font-size: 15px;
+    text-align: center;
+}
+
+.link:hover{
+    color: rgb(0, 0, 255);
+}
