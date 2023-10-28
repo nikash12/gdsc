@@ -1,0 +1,11 @@
+.sidebar{
+background-color: aqua;
+position: absolute;
+top: 100px;
+
+}
+
+.Navbar{
+    width: 100%;
+    background-color: aqua;
+}
